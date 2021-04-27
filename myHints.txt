@@ -1,0 +1,8 @@
+Create app
+npx create-react-app my-app --template typescript
+
+Add to git repository
+git remote add origin [copied web address]
+
+Push
+git push origin master
