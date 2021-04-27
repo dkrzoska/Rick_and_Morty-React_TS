@@ -5,7 +5,7 @@ Language: TypeScript
 1. Search charcters
 2. Display founded characters (10 characters on page)
 3. Display character details
-4. Add character to favorites (using localstorage)
+4. Add character to favorites (using localstorage)  
 4a. Add character to favorites (using online JSON file)
 
 # Getting Started with Create React App
