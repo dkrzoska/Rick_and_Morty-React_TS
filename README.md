@@ -1,6 +1,15 @@
+# Rick and Morty application using free API  
+Library: React.js  
+Language: TypeScript  
+## App description:  
+1. Search charcters
+2. Display founded characters
+3. Display character details
+4. Add character to favorites
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App]
+This project was bootstrapped with [Create React App]  
 npx create-react-app my-app --template typescript
 (https://github.com/facebook/create-react-app).
 
